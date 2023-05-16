@@ -126,7 +126,7 @@ a {
 :root{
 	--main-background: #0b0c0f;
 	--main-fonts-color: white;
-	--main-decor-color:#00a9e2;
+	--main-decor-color:purple;
     --main-header-background:#21252e;
 	--main-font-family: 'Poppins', sans-serif;
 }
@@ -365,14 +365,14 @@ a.nav-link{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	color: blue;
+	color: purple;
 }
 	
 #contact p{
 	padding:10px;
 	text-align:center;
 	font-size:1.2rem;
-	font-family:blue;
+	font-family:purple;
 }
 
 /*────────────────── 
@@ -386,7 +386,7 @@ footer {
 }
 
 .copyright {
-	color:blue;
+	color:purple;
 	font-size: 1.2rem;
 	line-height: 40px;
 	text-align: center;
